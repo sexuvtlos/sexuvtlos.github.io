@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sexuvtlos.github.io/plZ/plZ.txt
